@@ -1,7 +1,7 @@
 module.exports = {
   title: "TamaRive",
   tagline: "Scientific Instrument",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://tamarive.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "liudingxin", // Usually your GitHub org/user name.

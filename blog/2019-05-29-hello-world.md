@@ -9,6 +9,7 @@ tags: [hello, docusaurus]
 ---
 
 Welcome to this blog. This blog is created with [**Docusaurus 2 alpha**](https://v2.docusaurus.io/).
+![2000](https://docusaurus.io/img/docusaurus-slash-first-birthday.svg)
 
 <!--truncate-->
 
