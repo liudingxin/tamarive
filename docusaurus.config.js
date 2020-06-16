@@ -1,11 +1,11 @@
 module.exports = {
   title: "TamaRive",
-  tagline: "The tagline of my site",
+  tagline: "Scientific Instrument",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "liudingxin", // Usually your GitHub org/user name.
+  projectName: "tamarive", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "TamaRive",
