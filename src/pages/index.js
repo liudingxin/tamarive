@@ -21,10 +21,10 @@ const features = [
     ),
     imageUrl: "img/undraw_docusaurus_mountain.svg",
     description: (
-      <>
+      <Link to={useBaseUrl("docs/doc2")}>
         Docusaurus was designed from the ground up to be easily installed and
         used to get your website up and running quickly.
-      </>
+      </Link>
     ),
   },
   {
