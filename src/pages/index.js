@@ -67,7 +67,7 @@ function Home() {
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">
             {siteConfig.tagline}
-            1<img src="img/sg.svg" />2<img src="static/img/sg.svg" />
+            <img src="img/sg.svg" />
           </p>
           <div className={styles.buttons}>
             <Link
