@@ -8,23 +8,13 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: (
-      <Link
-        className={classnames(
-          "button button--outline button--secondary button--lg",
-          styles.getStarted
-        )}
-        to={useBaseUrl("docs/doc1")}
-      >
-        Easy to Use
-      </Link>
-    ),
+    title: <>Easy to Use</>,
     imageUrl: "img/undraw_docusaurus_mountain.svg",
     description: (
-      <Link to={useBaseUrl("docs/doc2")}>
+      <>
         Docusaurus was designed from the ground up to be easily installed and
         used to get your website up and running quickly.
-      </Link>
+      </>
     ),
   },
   {
