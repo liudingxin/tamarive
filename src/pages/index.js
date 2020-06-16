@@ -8,7 +8,7 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <Link to="docs/doc2">Easy to Use</Link>,
     imageUrl: "img/undraw_docusaurus_mountain.svg",
     description: (
       <>
