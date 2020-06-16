@@ -8,7 +8,7 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <Link to="docs/doc2">Easy to Use</Link>,
+    title: <>Easy to Use</>,
     imageUrl: "img/undraw_docusaurus_mountain.svg",
     description: (
       <>
@@ -65,7 +65,10 @@ function Home() {
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className="hero__subtitle">
+            {siteConfig.tagline}
+            1<img src="img/sg.svg" />2<img src="static/img/sg.svg" />
+          </p>
           <div className={styles.buttons}>
             <Link
               className={classnames(
