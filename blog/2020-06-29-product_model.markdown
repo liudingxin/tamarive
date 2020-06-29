@@ -87,8 +87,3 @@ tags: [facebook, hello, docusaurus]
     <td>c3</td>
   </tr>
 </table>
-
-## 基本尺寸
-![dim-p80](54CAF7905109488FB937AC34A30CDE7C)
-![dim-p90](A54A56E1D23749EF8CE2F785747C1068)
-![dim-p116](D584E5F0E41349D182FA14015DF88991)
