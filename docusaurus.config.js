@@ -21,6 +21,12 @@ module.exports = {
           position: "left",
         },
         { to: "blog", label: "Blog", position: "left" },
+        {
+          to: "p_flow/introduce",
+          activeBasePath: "p_flow",
+          label: "flowBox(配气仪)",
+          position: "left",
+        },
         // {
         //   href: "https://github.com/facebook/docusaurus",
         //   label: "GitHub",
