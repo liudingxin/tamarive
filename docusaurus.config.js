@@ -7,10 +7,8 @@ module.exports = {
   organizationName: "liudingxin", // Usually your GitHub org/user name.
   projectName: "tamarive", // Usually your repo name.
   themeConfig: {
+    disableDarkMode: false,
     defaultDarkMode: true,
-    // ...
-  },
-  themeConfig: {
     navbar: {
       title: "TamaRive",
       logo: {
