@@ -21,6 +21,11 @@ module.exports = {
           position: "left",
         },
         {
+          to: "pflow/doc1",
+          label: "Pflow",
+          position: "left",
+        },
+        {
           to: "docs/doc1",
           activeBasePath: "docs",
           label: "Docs",
