@@ -35,10 +35,10 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Products",
           items: [
             {
-              label: "Style Guide",
+              label: "FlowBox",
               to: "docs/doc1",
             },
             {
@@ -48,8 +48,12 @@ module.exports = {
           ],
         },
         {
-          title: "Community",
+          title: "Lab",
           items: [
+            {
+              label: "The Dealer",
+              to: "docs/doc3",
+            },
             // {
             //   label: "Stack Overflow",
             //   href: "https://stackoverflow.com/questions/tagged/docusaurus",
@@ -68,12 +72,12 @@ module.exports = {
           title: "More",
           items: [
             {
-              label: "Blog",
-              to: "blog",
+              label: "The Dealer",
+              to: "docs/doc3",
             },
             {
-              label: "GitHub",
-              href: "https://github.com/liudingxin",
+              label: "Blog",
+              to: "blog",
             },
           ],
         },
