@@ -4,6 +4,9 @@
 # Production
 /build
 
+# Post_backup
+/bak_post
+
 # Generated files
 .docusaurus
 .cache-loader
