@@ -61,7 +61,7 @@ tags: [facebook, hello, docusaurus]
 | 图片                                   | ![导热模块产品图G200](8A800DFD5E3142D19565D96E281480EC) |
 | 适用                                   | 60ml 试管或样品瓶                                       |
 | 产品外型                               | Φ128mm H60mm                                            |
-| 槽位                                   | 9                                                       |
+| 槽位                                   | 9  1                                                     |
 | 槽径                                   | Φ26mm H48mm                                             |
 | 功能孔                                 | Φ3mm（H5mm），Φ5Φ6Φ7（H10mm）                           |
 | 材质与工艺                             | 铝合金阳极化                                            |
@@ -75,7 +75,7 @@ tags: [facebook, hello, docusaurus]
     <th rowspan="8"> <img src="https://img.alicdn.com/imgextra/i4/14872765/O1CN01eXBZbj1WIPjKWFozo_!!14872765.jpg" /></th>
   </tr>
   <tr>
-    <td>a1</td>
+    <td>aw</td>
     <td>a2</td>
   </tr>
   <tr>
