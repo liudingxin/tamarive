@@ -15,17 +15,6 @@ module.exports = {
       },
       links: [
         {
-          to: "p_flow/intro",
-          activeBasePath: "p_flow",
-          label: "FlowBox",
-          position: "left",
-        },
-        {
-          to: "pflow/doc1",
-          label: "Pflow",
-          position: "left",
-        },
-        {
           to: "docs/doc1",
           activeBasePath: "docs",
           label: "Docs",
