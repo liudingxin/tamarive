@@ -1,6 +1,6 @@
 module.exports = {
   title: "TamaRive",
-  tagline: "Scientific Instrument",
+  tagline: "Scientific Instrument & Experimental Device",
   url: "https://tamarive.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
@@ -15,18 +15,19 @@ module.exports = {
       },
       links: [
         {
+          to: "p_flow/intro",
+          activeBasePath: "p_flow",
+          label: "FlowBox",
+          position: "left",
+        },
+        {
           to: "docs/doc1",
           activeBasePath: "docs",
           label: "Docs",
           position: "left",
         },
         { to: "blog", label: "Blog", position: "left" },
-        {
-          to: "p_flow/introduce",
-          activeBasePath: "p_flow",
-          label: "flowBox(配气仪)",
-          position: "left",
-        },
+
         // {
         //   href: "https://github.com/facebook/docusaurus",
         //   label: "GitHub",
