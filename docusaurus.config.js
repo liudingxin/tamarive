@@ -1,14 +1,14 @@
 module.exports = {
-  title: "TamaRive",
-  tagline: "Scientific Instrument & Experimental Device",
+  title: "TamaRive·玉川",
+  tagline: "科学仪器",
   url: "https://tamarive.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "liudingxin", // Usually your GitHub org/user name.
   projectName: "tamarive", // Usually your repo name.
   themeConfig: {
-    disableDarkMode: false,
-    defaultDarkMode: true,
+    disableDarkMode: true,
+    // defaultDarkMode: true,
     navbar: {
       title: "TamaRive",
       logo: {
@@ -19,10 +19,10 @@ module.exports = {
         {
           to: "docs/doc1",
           activeBasePath: "docs",
-          label: "Docs",
+          label: "文档",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
+        { to: "blog", label: "日志", position: "left" },
 
         // {
         //   href: "https://github.com/facebook/docusaurus",
@@ -35,41 +35,37 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Products",
+          title: "产品",
           items: [
             {
-              label: "FlowBox",
+              label: "配气仪",
               to: "docs/doc1",
             },
             {
-              label: "Second Doc",
+              label: "氟油检漏仪",
               to: "docs/doc2",
             },
           ],
         },
         {
-          title: "Lab",
+          title: "服务",
           items: [
             {
-              label: "The Dealer",
+              label: "仪器保养维护及修理",
+              to: "docs/doc3",
+            },
+            {
+              label: "修理",
               to: "docs/doc3",
             },
             // {
             //   label: "Stack Overflow",
             //   href: "https://stackoverflow.com/questions/tagged/docusaurus",
             // },
-            // {
-            //   label: "Discord",
-            //   href: "https://discordapp.com/invite/docusaurus",
-            // },
-            // {
-            //   label: "Twitter",
-            //   href: "https://twitter.com/docusaurus",
-            // },
           ],
         },
         {
-          title: "More",
+          title: "其他",
           items: [
             {
               label: "The Dealer",

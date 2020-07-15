@@ -7,6 +7,9 @@
 # Post_backup
 /bak_post
 
+# notes
+/bak_notes
+
 # Generated files
 .docusaurus
 .cache-loader

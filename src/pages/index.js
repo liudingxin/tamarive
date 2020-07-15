@@ -8,32 +8,39 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>非标仪器定制</>,
     imageUrl: "img/undraw_docusaurus_mountain.svg",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        真空、气体、热，冷黑。根据您的实验设计定制
+        实现最高E-8Pa的真空环境，各种气体配比通入，加热，冷却等过程实现。从图纸，加工，调装和维护的体系化服务。
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>试验台搭建</>,
     imageUrl: "img/undraw_docusaurus_tree.svg",
     description: (
       <>
-        Docusaurus lores. Go ahead and move your docs into the <code>docs</code>{" "}
-        directory.
+        分子蒸馏，虹吸，激光冷却，光学等各种物理，化学实验平台的整体设计，搭建。
+        <br />
+        也可以对原有杂乱无章的实验环境，进行整理改造。这非常棒！
       </>
     ),
+    // description: (
+    //   <>
+    //     Docusaurus lores. Go ahead and move your docs into the <code>docs</code>
+    //     {" 这里是 "}
+    //     directory.
+    //   </>
+    // ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>实验室工程</>,
     imageUrl: "img/undraw_docusaurus_react.svg",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        根据科研项目要求，确定组成、规模和标准。设计，采购，施工一体化。完成从洁净、输配供给、工作流、安全、废料处理的综合部署。
       </>
     ),
   },
@@ -75,7 +82,7 @@ function Home() {
               )}
               to={useBaseUrl("docs/doc1")}
             >
-              Get Started
+              服务未来的诺贝尔奖得主
             </Link>
           </div>
         </div>
