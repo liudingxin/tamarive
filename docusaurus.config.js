@@ -1,5 +1,5 @@
 module.exports = {
-  title: "TamaRive·玉川",
+  title: "TamaRive玉川",
   tagline: "科学仪器",
   url: "https://tamarive.com",
   baseUrl: "/",
@@ -52,10 +52,6 @@ module.exports = {
           items: [
             {
               label: "仪器保养维护及修理",
-              to: "docs/doc3",
-            },
-            {
-              label: "修理",
               to: "docs/doc3",
             },
             // {

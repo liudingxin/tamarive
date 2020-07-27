@@ -1,0 +1,79 @@
+---
+id: 003
+title: The implementation of the commodity price adjustment.(执行商品价格调整)
+author: Liudingxin
+author_title: CEO, Engineer
+author_url: https://github.com/liudingxin
+author_image_url: https://img.alicdn.com/imgextra/i4/14872765/O1CN0143eVeb1WIPj942dME_!!14872765.png
+tags: [news]
+---
+
+> **"从100元和106元调整为120元。**
+
+### 氦质谱检漏仪喷枪和气枕头套装价格调整
+
+![2018.07.01](https://img.alicdn.com/imgextra/i4/14872765/O1CN01hoXjuc1WIPjCa4u4T_!!14872765.jpg)
+
+<!--truncate-->
+
+### 2015.11 材料实验真空炉
+
+![IMG_20151101](https://img.alicdn.com/imgextra/i3/14872765/O1CN01qhkHLx1WIPjBRMYBh_!!14872765.jpg)
+
+![IMG_20151102](https://img.alicdn.com/imgextra/i2/14872765/O1CN012twXfc1WIPjFd8vC3_!!14872765.jpg)
+
+### 2015.07 分子蒸馏用扩散泵抽气机组
+
+![2015.07.02](https://img.alicdn.com/imgextra/i3/14872765/O1CN01v5c8cU1WIPj91aAjs_!!14872765.jpg)
+
+### 2014.11 【克赛号】空间环境模拟舱 KM-0.5
+
+![2014.11.2](https://img.alicdn.com/imgextra/i4/14872765/O1CN01kaYVm41WIPj8d0gpX_!!14872765.jpg)
+
+### 2014.11 超高真空腔体
+
+![2014.11](https://img.alicdn.com/imgextra/i1/14872765/O1CN01pSKujJ1WIPjCa66st_!!14872765.jpg)
+
+### 2014.07 3L 航天催化压力测试罐
+
+![2014.07.01](https://img.alicdn.com/imgextra/i3/14872765/O1CN01dZ1INR1WIPj91Z6CY_!!14872765.jpg)
+
+### 2014.07 芯片真空测试盒
+
+![2014.07.00](https://img.alicdn.com/imgextra/i3/14872765/O1CN01meL0Ee1WIPjDBJOBW_!!14872765.jpg)
+
+### 2014.07 【阿尔塔夏公主】纳米铝粉生产试验装置
+
+![2014.07](https://img.alicdn.com/imgextra/i4/14872765/O1CN01Jjx2Pv1WIPjBRKCdn_!!14872765.jpg)
+
+### 2014.04 空间环境模拟舱 KM-1
+
+![2014.04](https://img.alicdn.com/imgextra/i3/14872765/O1CN01Ka9Fgx1WIPj91aJ2b_!!14872765.jpg)
+
+### 2014.04 【机翼】 带水冷板的超可视化高真空实验系统
+
+![2014.03](https://img.alicdn.com/imgextra/i3/14872765/O1CN01qV46Da1WIPjBaifFo_!!14872765.jpg)
+
+### 2014.02 【格德米斯】 航天水泵测试真空腔体 2
+
+![2014.02](https://img.alicdn.com/imgextra/i4/14872765/O1CN01at90NQ1WIPjBRMkdz_!!14872765.jpg)
+
+### 2014.01 冲击振动实验腔体
+
+![2014.01](https://img.alicdn.com/imgextra/i4/14872765/O1CN016G3m5f1WIPj91a2Pc_!!14872765.jpg)
+
+### 2013.12 【水手】 航天水泵测试真空腔体
+
+![2013.12](https://img.alicdn.com/imgextra/i2/14872765/O1CN01y9SYsR1WIPjBRKbac_!!14872765.jpg)
+
+### 2013.04 【胖子】 激光实验真空腔体
+
+![201304](https://img.alicdn.com/imgextra/i3/14872765/O1CN01N8tAH71WIPjDSCgsr_!!14872765.jpg)
+
+### 2012.10 空间环境模拟舱 KM-0.5
+
+![IMG2](https://img.alicdn.com/imgextra/i3/14872765/O1CN016zuJAO1WIPjEEurqU_!!14872765.jpg)
+
+### 2011.11 【瘦子】 10T 磁场内真空实验腔体
+
+![20111201](https://img.alicdn.com/imgextra/i2/14872765/O1CN01nzBm8L1WIPjBRLPTa_!!14872765.jpg)
