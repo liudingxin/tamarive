@@ -1,6 +1,6 @@
 ---
 id: priceadjust001
-title: The implementation of the commodity price adjustment.(执行商品价格调整)
+title: The implementation of the commodity price adjustment.(氦检喷枪套装执行商品价格调整)
 author: Liudingxin
 author_title: CEO, Engineer
 author_url: https://github.com/liudingxin
@@ -8,7 +8,7 @@ author_image_url: https://img.alicdn.com/imgextra/i4/14872765/O1CN0143eVeb1WIPj9
 tags: [news]
 ---
 
-> **发货价格一套和一套（开普票）分别增加10元**
+> **自2020年7月27日起，发货价格一套和一套（开普票）分别增加10元**
 
 ### 氦质谱检漏仪喷枪接口做了改进，同时由于运输成本的增加。
 
