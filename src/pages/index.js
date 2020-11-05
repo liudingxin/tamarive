@@ -8,17 +8,17 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>非标仪器定制</>,
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
+    title: <>真空</>,
+    // imageUrl: "img/undraw_docusaurus_mountain.svg",
+    imageUrl: "img/1.svg",
     description: (
       <>
-        真空、气体、热，冷黑。根据您的实验设计定制
-        实现最高E-8Pa的真空环境，各种气体配比通入，加热，冷却等过程实现。从图纸，加工，调装和维护的体系化服务。
+        通过泵或泵的组合，以搬运、吸附的方式，结合腔体与密封结构的设计制造，从大气、低真空到超高真空，提供开展实验项目所需的真空环境。
       </>
     ),
   },
   {
-    title: <>试验台搭建</>,
+    title: <>加热</>,
     imageUrl: "img/undraw_docusaurus_tree.svg",
     description: (
       <>
@@ -36,8 +36,45 @@ const features = [
     // ),
   },
   {
-    title: <>实验室工程</>,
-    imageUrl: "img/undraw_docusaurus_react.svg",
+    title: <>气体</>,
+    imageUrl: "img/3.svg",
+    description: (
+      <>
+        根据科研项目要求，确定组成、规模和标准。设计，采购，施工一体化。完成从洁净、输配供给、工作流、安全、废料处理的综合部署。
+      </>
+    ),
+  },
+  {
+    title: <>机械</>,
+    // imageUrl: "img/undraw_docusaurus_mountain.svg",
+    imageUrl: "img/1.svg",
+    description: (
+      <>
+        通过泵或泵的组合，以搬运、吸附的方式，结合腔体与密封结构的设计制造，从大气、低真空到超高真空，提供开展实验项目所需的真空环境。
+      </>
+    ),
+  },
+  {
+    title: <>控制</>,
+    imageUrl: "img/undraw_docusaurus_tree.svg",
+    description: (
+      <>
+        分子蒸馏，虹吸，激光冷却，光学等各种物理，化学实验平台的整体设计，搭建。
+        <br />
+        也可以对原有杂乱无章的实验环境，进行整理改造。这非常棒！
+      </>
+    ),
+    // description: (
+    //   <>
+    //     Docusaurus lores. Go ahead and move your docs into the <code>docs</code>
+    //     {" 这里是 "}
+    //     directory.
+    //   </>
+    // ),
+  },
+  {
+    title: <>数据分析</>,
+    imageUrl: "img/3.svg",
     description: (
       <>
         根据科研项目要求，确定组成、规模和标准。设计，采购，施工一体化。完成从洁净、输配供给、工作流、安全、废料处理的综合部署。

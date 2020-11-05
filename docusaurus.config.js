@@ -38,6 +38,10 @@ module.exports = {
           title: "产品",
           items: [
             {
+              label: "冷阱与过滤器",
+              to: "docs/doc1",
+            },
+            {
               label: "配气仪",
               to: "docs/doc1",
             },
@@ -51,7 +55,7 @@ module.exports = {
           title: "服务",
           items: [
             {
-              label: "仪器保养维护及修理",
+              label: "非标实验设备定制",
               to: "docs/doc3",
             },
             // {
@@ -61,14 +65,14 @@ module.exports = {
           ],
         },
         {
-          title: "其他",
+          title: "关注",
           items: [
             {
-              label: "The Dealer",
+              label: "Twitter",
               to: "docs/doc3",
             },
             {
-              label: "Blog",
+              label: "B站",
               to: "blog",
             },
           ],
