@@ -68,8 +68,12 @@ module.exports = {
           title: "关注",
           items: [
             {
-              label: "Twitter",
-              to: "docs/doc3",
+              label: "Twitter:@tamariveworks",
+              to: "http://www.twitter.com/tamariveworks",
+            },
+            {
+              label: "Instagram:@tamariveworks",
+              to: "https://www.instagram.com/tamariveworks",
             },
             {
               label: "B站",
