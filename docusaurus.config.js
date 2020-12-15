@@ -38,7 +38,7 @@ module.exports = {
           title: "产品",
           items: [
             {
-              label: "冷阱与过滤器",
+              label: "液氮冷阱与过滤器",
               to: "docs/doc1",
             },
             {
@@ -49,35 +49,43 @@ module.exports = {
               label: "氟油检漏仪",
               to: "docs/doc2",
             },
+            {
+              label: "小型离子溅射仪",
+              to: "docs/doc2",
+            },
           ],
         },
         {
           title: "服务",
           items: [
             {
-              label: "非标实验设备定制",
+              label: "真空腔体加工",
               to: "docs/doc3",
             },
-            // {
-            //   label: "Stack Overflow",
-            //   href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            // },
+            {
+              label: "实验设备定制",
+              href: "docs/doc3",
+            },
           ],
         },
         {
           title: "关注",
           items: [
             {
-              label: "Twitter:@tamariveworks",
+              label: "Twitter（大陆地区无法访问）",
               to: "http://www.twitter.com/tamariveworks",
             },
             {
-              label: "Instagram:@tamariveworks",
-              to: "https://www.instagram.com/tamariveworks",
+              label: "微博",
+              to: "https://www.weibo.com/tamarive",
             },
             {
               label: "B站",
               to: "blog",
+            },
+            {
+              label: "抖音/视频号/公众号",
+              to: "docs/doc3",
             },
           ],
         },
