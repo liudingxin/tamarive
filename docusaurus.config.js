@@ -81,7 +81,7 @@ module.exports = {
             },
             {
               label: "B站",
-              to: "blog",
+              to: "https://space.bilibili.com/298970669",
             },
             {
               label: "抖音/视频号/公众号",
