@@ -113,7 +113,7 @@ function Home() {
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              to={useBaseUrl("docs/doc1")}
+              to={useBaseUrl("docs/T1")}
             >
               服务未来的诺贝尔奖得主
             </Link>

@@ -17,7 +17,7 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/doc1",
+          to: "docs/T1",
           activeBasePath: "docs",
           label: "文档",
           position: "left",
@@ -72,7 +72,7 @@ module.exports = {
           title: "关注",
           items: [
             {
-              label: "Twitter（大陆地区无法访问）",
+              label: "Twitter（中国大陆地区无法访问）",
               to: "http://www.twitter.com/tamariveworks",
             },
             {
@@ -85,7 +85,7 @@ module.exports = {
             },
             {
               label: "抖音/视频号/公众号",
-              to: "docs/doc3",
+              to: "docs/Q1",
             },
           ],
         },
