@@ -17,7 +17,7 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/T1",
+          to: "docs/Index",
           activeBasePath: "docs",
           label: "文档",
           position: "left",
