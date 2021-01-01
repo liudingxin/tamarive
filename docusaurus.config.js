@@ -35,57 +35,72 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "产品",
+          title: "腔体",
           items: [
             {
-              label: "液氮冷阱与过滤器",
-              to: "docs/doc1",
+              label: "钟罩型",
+              to: "docs/A1",
             },
             {
-              label: "配气仪",
-              to: "docs/doc1",
+              label: "罐式",
+              to: "docs/A2",
             },
+            {
+              label: "方型",
+              to: "docs/A3",
+            },
+          ],
+        },
+        {
+          title: "配件",
+          items: [
+            {
+              label: "液氮冷阱",
+              to: "docs/B4",
+            },
+            {
+              label: "水冷阱",
+              // href: "docs/C1",
+              to: "docs/C1",
+            },
+            {
+              label: "分子筛",
+              // href: "docs/C1",
+              to: "docs/C1",
+            },
+          ],
+        },
+        {
+          title: "仪器",
+          items: [
             {
               label: "氟油检漏仪",
-              to: "docs/doc2",
-            },
-            {
-              label: "小型离子溅射仪",
-              to: "docs/doc2",
-            },
-          ],
-        },
-        {
-          title: "服务",
-          items: [
-            {
-              label: "真空腔体加工",
-              to: "docs/doc3",
-            },
-            {
-              label: "实验设备定制",
-              href: "docs/doc3",
-            },
-          ],
-        },
-        {
-          title: "关注",
-          items: [
-            {
-              label: "Twitter（中国大陆地区无法访问）",
               to: "http://www.twitter.com/tamariveworks",
             },
             {
-              label: "微博",
+              label: "溅射仪",
               to: "https://www.weibo.com/tamarive",
             },
             {
-              label: "B站",
+              label: "配气仪",
               to: "https://space.bilibili.com/298970669",
             },
+          ],
+        },
+        {
+          title: "设备",
+          items: [
             {
-              label: "抖音/视频号/公众号",
-              to: "docs/Q1",
+              label: "真空炉",
+              to: "http://www.twitter.com/tamariveworks",
+            },
+            {
+              label: "环境模拟舱",
+              to: "https://www.weibo.com/tamarive",
+            },
+            {
+              label: "加注机",
+              to: "https://space.bilibili.com/298970669",
             },
           ],
         },
@@ -100,12 +115,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/",
+          editUrl: "#",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/",
+          editUrl: "#",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
