@@ -1,6 +1,6 @@
 ---
-id: T1
-title: 服务未来的诺贝尔奖得主
+id: Trap_LN2
+title: 液氮冷阱
 ---
 
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).

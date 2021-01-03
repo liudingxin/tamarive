@@ -39,15 +39,15 @@ module.exports = {
           items: [
             {
               label: "钟罩型",
-              to: "docs/A1",
+              to: "docs/Chamber_jar",
             },
             {
-              label: "罐式",
-              to: "docs/A2",
+              label: "罐型",
+              to: "docs/Chamber_Cylinder",
             },
             {
               label: "方型",
-              to: "docs/A3",
+              to: "docs/Chamber_Cube",
             },
           ],
         },

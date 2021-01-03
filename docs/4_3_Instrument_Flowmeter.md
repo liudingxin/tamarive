@@ -1,7 +1,6 @@
 ---
-id: B1
-title: 钟罩型
-sidebar_label: 钟罩型
+id: Instrument_Flowmeter
+title: 配气仪
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).

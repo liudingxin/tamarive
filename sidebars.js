@@ -1,10 +1,10 @@
 module.exports = {
   someSidebar: {
     关于我们: ['Index'],
-    腔体: ['Chamber_1', 'A2', 'A3', 'A4'],
-    配件: ['B1', 'B2', 'B3', 'B4'],
-    仪器: ['C1', 'C2'],
-    设备: ['C1', 'C2'],
-    常见问题: ['Q1'],
+    腔体: ['Chamber_jar', 'Chamber_Cylinder', 'Chamber_Cube'],
+    配件: ['Trap_LN2', 'Trap_Water', 'Trap_Molecular'],
+    仪器: ['Instrument_Oildetector', 'Instrument_Sputter', 'Instrument_Flowmeter'],
+    设备: ['Equipment_Furnace', 'Equipment_Simulation', 'Equipment_Fill'],
+    非标定制: ['Customize_Flow', 'Customize_Specification'],
   },
 };

@@ -1,7 +1,6 @@
 ---
-id: doc0
-title: AAA
-sidebar_label: Style Guide
+id: Equipment_Fill
+title: 加注机
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).

@@ -1,7 +1,6 @@
 ---
-id: Q1
-title: 开票相关的问题
-sidebar_label: 开票相关的问题
+id: Chamber_jar
+title: 钟罩型（模块化、自由组合）
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).

@@ -3,7 +3,7 @@ id: Index
 title: 服务未来的诺贝尔奖得主
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+“这些地方的变化日新月异，它们已有了戴王冠的仙女。” —— 莱昂德罗·迪亚斯
 
 ## Markdown Syntax
 

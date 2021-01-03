@@ -1,6 +1,6 @@
 ---
-id: T1
-title: 服务未来的诺贝尔奖得主
+id: Customize_Specification
+title: 如何书写非标设备技术要求
 ---
 
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
