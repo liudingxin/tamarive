@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>加热</>,
-    imageUrl: "img/undraw_docusaurus_tree.svg",
+    imageUrl: "img/2.svg",
     description: (
       <>
         根据目标温度，升温速率，温度均匀性要求，确定加热原理和选择加热器件。实现从常温到1200℃的实验环境。同时也提供低温解决方案。利用油导热，制冷剂或液氮，获得-70℃到-120℃低温。
@@ -45,7 +45,7 @@ const features = [
   {
     title: <>机械</>,
     // imageUrl: "img/undraw_docusaurus_mountain.svg",
-    imageUrl: "img/1.svg",
+    imageUrl: "img/4.svg",
     description: (
       <>
         我们的项目工程师，利用UG、Rhino+Vray、手绘的方式，将您头脑中设想的实验，流程与设备，跃然纸上。再配合加工技术和工艺把控，使一个又一个伟大的探索，从想法付诸行动。
@@ -54,7 +54,7 @@ const features = [
   },
   {
     title: <>控制</>,
-    imageUrl: "img/undraw_docusaurus_tree.svg",
+    imageUrl: "img/5.svg",
     description: (
       <>
         从设备的HMI人机界面，通过PLC，Arduino，Raspberry Pi，沟通传感器、执行机构，到上位机组态，C#定制软件开发。实现设备的自动化与交互，集中与远程管理。
@@ -70,7 +70,7 @@ const features = [
   },
   {
     title: <>数据分析</>,
-    imageUrl: "img/3.svg",
+    imageUrl: "img/6.svg",
     description: (
       <>
         依赖完善可靠的实验数据存储计划，利用专业转件对数据进行可视化，图形化操作，深度发掘数据内容，同时，更直接的展示实验成果。
